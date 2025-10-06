@@ -1,0 +1,130 @@
+Initial
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   Code/Cache/Cache_Data/323c4847f42b636f_0
+#	modified:   Code/Cache/Cache_Data/9f50bddbd978eddd_0
+#	modified:   Code/Cache/Cache_Data/a05785a72c64fc1d_0
+#	modified:   Code/Cache/Cache_Data/d121e2a6335b7510_0
+#	modified:   Code/Cache/Cache_Data/index-dir/the-real-index
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/3a2a95b4dc803df6_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/4100e91c61128003_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/584738c3dc420040_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/75f40798f04dbb5c_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/85ef27de1ed337bb_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/b3152d98c7433653_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/c2b1c1292565607a_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/f0d33ceb6a5a06a9_0
+#	modified:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/index-dir/the-real-index
+#	modified:   Code/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	modified:   Code/DIPS
+#	modified:   Code/DIPS-wal
+#	modified:   Code/DawnGraphiteCache/data_1
+#	modified:   Code/DawnGraphiteCache/index
+#	modified:   Code/DawnWebGPUCache/data_1
+#	modified:   Code/DawnWebGPUCache/index
+#	modified:   Code/GPUCache/data_0
+#	modified:   Code/GPUCache/data_1
+#	modified:   Code/GPUCache/data_2
+#	modified:   Code/GPUCache/data_3
+#	modified:   Code/GPUCache/index
+#	modified:   Code/Local Storage/leveldb/000003.log
+#	modified:   Code/Local Storage/leveldb/LOG
+#	modified:   Code/Local Storage/leveldb/LOG.old
+#	modified:   Code/Network Persistent State
+#	modified:   Code/Session Storage/000003.log
+#	modified:   Code/Session Storage/LOG
+#	modified:   Code/Session Storage/LOG.old
+#	modified:   Code/TransportSecurity
+#	new file:   Code/User/History/-2b7f858e/HK3S.json
+#	modified:   Code/User/History/4268d084/entries.json
+#	renamed:    Code/Backups/d1630106495fc1ed5963e248ff3152ca/file/-7fd447a8 -> Code/User/History/4268d084/uq0h.conf
+#	new file:   Code/User/History/768b01ee/Krmw
+#	new file:   Code/User/History/768b01ee/inc7
+#	modified:   Code/User/globalStorage/state.vscdb
+#	modified:   Code/User/globalStorage/state.vscdb.backup
+#	modified:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/state.vscdb
+#	modified:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/state.vscdb.backup
+#	modified:   Code/code.lock
+#	deleted:    Code/logs/20250905T190722/main.log
+#	deleted:    Code/logs/20250905T190722/userDataSync.log
+#	deleted:    Code/logs/20250905T190722/window1/renderer.log
+#	deleted:    Code/logs/20250905T190725/main.log
+#	deleted:    Code/logs/20250907T092357/main.log
+#	deleted:    Code/logs/20250907T092357/remoteTunnelService.log
+#	deleted:    Code/logs/20250907T092357/userDataSync.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/exthost.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.git/Git.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.json-language-features/JSON Language Server.log
+#	modified:   Code/logs/20250929T132742/main.log
+#	modified:   Code/logs/20250929T132742/window1/exthost/exthost.log
+#	modified:   Code/logs/20250929T132742/window1/exthost/vscode.git/Git.log
+#	renamed:    Code/logs/20250907T092357/editSessions.log -> Code/logs/20250930T095254/editSessions.log
+#	new file:   Code/logs/20250930T095254/main.log
+#	renamed:    Code/logs/20250905T190722/network-shared.log -> Code/logs/20250930T095254/network-shared.log
+#	new file:   Code/logs/20250930T095254/ptyhost.log
+#	new file:   Code/logs/20250930T095254/remoteTunnelService.log
+#	renamed:    Code/logs/20250905T190722/sharedprocess.log -> Code/logs/20250930T095254/sharedprocess.log
+#	renamed:    Code/logs/20250905T190722/telemetry.log -> Code/logs/20250930T095254/telemetry.log
+#	new file:   Code/logs/20250930T095254/terminal.log
+#	new file:   Code/logs/20250930T095254/userDataSync.log
+#	renamed:    Code/logs/20250907T092357/window1/exthost/extHostTelemetry.log -> Code/logs/20250930T095254/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250930T095254/window1/exthost/exthost.log
+#	new file:   Code/logs/20250930T095254/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250930T095254/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250930T095254/window1/exthost/vscode.github/GitHub.log
+#	renamed:    Code/logs/20250907T092357/window1/network.log -> Code/logs/20250930T095254/window1/network.log
+#	renamed:    Code/logs/20250907T092357/window1/notebook.rendering.log -> Code/logs/20250930T095254/window1/notebook.rendering.log
+#	renamed:    Code/logs/20250907T092357/window1/output_20250907T092358/tasks.log -> Code/logs/20250930T095254/window1/output_20250930T095258/tasks.log
+#	new file:   Code/logs/20250930T095254/window1/renderer.log
+#	renamed:    Code/logs/20250907T092357/window1/textModelChanges.log -> Code/logs/20250930T095254/window1/textModelChanges.log
+#	renamed:    Code/logs/20250905T190722/window1/views.log -> Code/logs/20250930T095254/window1/views.log
+#	new file:   Code/logs/20251002T095055/main.log
+#	renamed:    Code/logs/20250907T092357/network-shared.log -> Code/logs/20251002T095055/network-shared.log
+#	renamed:    Code/logs/20250905T190722/remoteTunnelService.log -> Code/logs/20251002T095055/remoteTunnelService.log
+#	renamed:    Code/logs/20250907T092357/sharedprocess.log -> Code/logs/20251002T095055/sharedprocess.log
+#	renamed:    Code/logs/20250907T092357/telemetry.log -> Code/logs/20251002T095055/telemetry.log
+#	renamed:    Code/logs/20250907T092357/terminal.log -> Code/logs/20251002T095055/terminal.log
+#	new file:   Code/logs/20251002T095055/userDataSync.log
+#	renamed:    Code/logs/20250905T190725/window1/views.log -> Code/logs/20251002T095055/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20251002T095055/window1/exthost/exthost.log
+#	renamed:    Code/logs/20250907T092357/window1/exthost/vscode.css-language-features/CSS Language Server.log -> Code/logs/20251002T095055/window1/output_20251002T095057/tasks.log
+#	renamed:    Code/logs/20250905T190725/window1/renderer.log -> Code/logs/20251002T095055/window1/renderer.log
+#	renamed:    Code/logs/20250907T092357/window1/views.log -> Code/logs/20251002T095055/window1/textModelChanges.log
+#	new file:   Code/logs/20251002T095055/window1/views.log
+#	new file:   Code/logs/20251003T103935/editSessions.log
+#	new file:   Code/logs/20251003T103935/main.log
+#	new file:   Code/logs/20251003T103935/network-shared.log
+#	new file:   Code/logs/20251003T103935/ptyhost.log
+#	new file:   Code/logs/20251003T103935/remoteTunnelService.log
+#	new file:   Code/logs/20251003T103935/sharedprocess.log
+#	new file:   Code/logs/20251003T103935/telemetry.log
+#	new file:   Code/logs/20251003T103935/terminal.log
+#	new file:   Code/logs/20251003T103935/userDataSync.log
+#	new file:   Code/logs/20251003T103935/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20251003T103935/window1/exthost/exthost.log
+#	new file:   Code/logs/20251003T103935/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20251003T103935/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20251003T103935/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20251003T103935/window1/exthost/vscode.json-language-features/JSON Language Server.log
+#	new file:   Code/logs/20251003T103935/window1/network.log
+#	new file:   Code/logs/20251003T103935/window1/notebook.rendering.log
+#	new file:   Code/logs/20251003T103935/window1/output_20251003T103936/tasks.log
+#	renamed:    Code/logs/20250907T092357/window1/renderer.log -> Code/logs/20251003T103935/window1/renderer.log
+#	new file:   Code/logs/20251003T103935/window1/textModelChanges.log
+#	new file:   Code/logs/20251003T103935/window1/views.log
+#	new file:   libreoffice/4/.lock
+#	new file:   libreoffice/4/user/backup/Room Project 1.docx_0.odt
+#	new file:   libreoffice/4/user/backup/Writing Prompt #4 Student.docx.bak
+#	modified:   libreoffice/4/user/pack/registrymodifications.pack
+#	modified:   libreoffice/4/user/registrymodifications.xcu
+#	new file:   libreoffice/4/user/store/.templdir.cache
+#
+# Changes not staged for commit:
+#	modified:   Code/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   Code/logs/20251003T103935/window1/exthost/vscode.git/Git.log
+#

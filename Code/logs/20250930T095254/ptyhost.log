@@ -1,0 +1,1 @@
+2025-09-30 09:53:53.556 [error] Failed to set sticky bit on /tmp/rohan-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/rohan-code-zsh'

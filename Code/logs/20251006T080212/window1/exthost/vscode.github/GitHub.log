@@ -1,0 +1,3 @@
+2025-10-06 08:02:17.219 [info] Log level: Info
+2025-10-06 08:05:08.435 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Hanny9008/nix-config-dotfiles/dd3878b35d1c560e5e8a8752bf463f62bcbce581: TypeError: Cannot read properties of null (reading 'author')
+2025-10-06 08:05:33.453 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Hanny9008/nix-config-dotfiles/79534126e97fdef18cd194e6b56e5d740466549b: TypeError: Cannot read properties of null (reading 'author')

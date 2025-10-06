@@ -1,0 +1,814 @@
+Initial
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/settings.json
+#	new file:   Code/.org.chromium.Chromium.0z0Bbt
+#	new file:   Code/.org.chromium.Chromium.3LX7ul
+#	new file:   Code/.org.chromium.Chromium.IAJOn4
+#	new file:   Code/.org.chromium.Chromium.TAdG6w
+#	new file:   Code/.org.chromium.Chromium.aCo9CZ
+#	new file:   Code/Backups/d1630106495fc1ed5963e248ff3152ca/file/-7fd447a8
+#	new file:   Code/Cache/Cache_Data/00493cae26813116_0
+#	new file:   Code/Cache/Cache_Data/0bee00e681aad951_0
+#	new file:   Code/Cache/Cache_Data/1058d96a345c3c70_0
+#	new file:   Code/Cache/Cache_Data/19143e8946fab039_0
+#	new file:   Code/Cache/Cache_Data/19143e8946fab039_s
+#	new file:   Code/Cache/Cache_Data/1a7dae7ab8834057_0
+#	new file:   Code/Cache/Cache_Data/29b64fba0585f61c_0
+#	new file:   Code/Cache/Cache_Data/2e1a1af56e1dd433_0
+#	new file:   Code/Cache/Cache_Data/323c4847f42b636f_0
+#	new file:   Code/Cache/Cache_Data/341b585d9fc66d1e_0
+#	new file:   Code/Cache/Cache_Data/35afda5118c3d0a7_0
+#	new file:   Code/Cache/Cache_Data/390737ca1e7dbec2_0
+#	new file:   Code/Cache/Cache_Data/3e934936d15aa8cd_0
+#	new file:   Code/Cache/Cache_Data/437642c948894ee0_0
+#	new file:   Code/Cache/Cache_Data/45be081b7557b6f2_0
+#	new file:   Code/Cache/Cache_Data/4d73d3d53471e410_0
+#	new file:   Code/Cache/Cache_Data/4e16b0cb185be24b_0
+#	new file:   Code/Cache/Cache_Data/4f89d8300110b75e_0
+#	new file:   Code/Cache/Cache_Data/4f89d8300110b75e_s
+#	new file:   Code/Cache/Cache_Data/5283edf90cf4ab50_0
+#	new file:   Code/Cache/Cache_Data/52cd4894415e6092_0
+#	new file:   Code/Cache/Cache_Data/67c0c1567597bdb8_0
+#	new file:   Code/Cache/Cache_Data/6c0442ee8d854854_0
+#	new file:   Code/Cache/Cache_Data/6d7e783053f2a1f6_0
+#	new file:   Code/Cache/Cache_Data/787a22ca0f9dcea2_0
+#	new file:   Code/Cache/Cache_Data/787a22ca0f9dcea2_s
+#	new file:   Code/Cache/Cache_Data/7f4debb2eac192f1_0
+#	new file:   Code/Cache/Cache_Data/81d4bb4ccc457efe_0
+#	new file:   Code/Cache/Cache_Data/859fc105e9f94987_0
+#	new file:   Code/Cache/Cache_Data/8bbcc2fc14000c1a_0
+#	new file:   Code/Cache/Cache_Data/9d4777dc09b8f67f_0
+#	new file:   Code/Cache/Cache_Data/9d4777dc09b8f67f_s
+#	new file:   Code/Cache/Cache_Data/9f50bddbd978eddd_0
+#	new file:   Code/Cache/Cache_Data/a05785a72c64fc1d_0
+#	new file:   Code/Cache/Cache_Data/a40dc7079f2cca77_0
+#	new file:   Code/Cache/Cache_Data/a46d9027e9ba44c9_0
+#	new file:   Code/Cache/Cache_Data/a577dad863b745b4_0
+#	new file:   Code/Cache/Cache_Data/a8a3034978d12dd3_0
+#	new file:   Code/Cache/Cache_Data/ab854bab4798c9ee_0
+#	new file:   Code/Cache/Cache_Data/ab854bab4798c9ee_s
+#	new file:   Code/Cache/Cache_Data/b9baff5d7d666336_0
+#	new file:   Code/Cache/Cache_Data/c1b3b03121c6cfc0_0
+#	new file:   Code/Cache/Cache_Data/c3d48fcd6b6a79ce_0
+#	new file:   Code/Cache/Cache_Data/cb0ac62c97bafdd3_0
+#	new file:   Code/Cache/Cache_Data/cc7f2b8d72c337ea_0
+#	new file:   Code/Cache/Cache_Data/ccae052022adbe03_0
+#	new file:   Code/Cache/Cache_Data/cf40cab85ce35ab9_0
+#	new file:   Code/Cache/Cache_Data/d121e2a6335b7510_0
+#	new file:   Code/Cache/Cache_Data/dbf2e7ac88ca8814_0
+#	new file:   Code/Cache/Cache_Data/e02572225c15a615_0
+#	new file:   Code/Cache/Cache_Data/e2f39a8c049923b0_0
+#	new file:   Code/Cache/Cache_Data/f0107a0ac1f3c707_0
+#	new file:   Code/Cache/Cache_Data/f0107a0ac1f3c707_s
+#	new file:   Code/Cache/Cache_Data/f1c59f1549c2d2f7_0
+#	new file:   Code/Cache/Cache_Data/f1c59f1549c2d2f7_s
+#	new file:   Code/Cache/Cache_Data/f30ddc9f84995331_0
+#	new file:   Code/Cache/Cache_Data/fe7adcaa590958f4_0
+#	new file:   Code/Cache/Cache_Data/fe7adcaa590958f4_s
+#	new file:   Code/Cache/Cache_Data/fe9c57a5466b07c2_0
+#	new file:   Code/Cache/Cache_Data/index
+#	new file:   Code/Cache/Cache_Data/index-dir/the-real-index
+#	new file:   Code/CachedConfigurations/defaults/configurationDefaultsOverrides/configuration.json
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/0bf0401218fed083_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/13e5d16eabe9c2ab_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/38a4e8cffd28d5b6_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/38cb9b7c37bf5292_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/3d2357608bb49eee_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/423da7a6bb0eee61_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/4779055b5b766dda_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/4a9120bfaa56ead8_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/919034e71e6ed9d6_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/932b5a5b21318297_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/9403e415718f7072_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/ca924281fbb76c23_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/d7c68ea213de5f42_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/e5e8c8a5efe088fc_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/f20da38f81728d3f_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/fe35e4e986c78749_0
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/index
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/js/index-dir/the-real-index
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/wasm/index
+#	new file:   Code/CachedData/488a1f239235055e34e673291fb8d8c810886f81/chrome/wasm/index-dir/the-real-index
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/07978f717d62a16f_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/094357c70784c980_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/12689878c6f411ba_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/4c5609cf1dc2d914_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/4f396af3a31bab7e_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/5345cb75dbbdc121_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/7675da54a7f94748_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/900975092c67564a_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/9921bb9a2cde79f8_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/a8710858f9b7b73f_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/af3158022e83f053_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/c875a57a08f475b1_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/d3eb67808150c7dc_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/eb46cb577fdbabeb_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/fe5f1a2dff62edf2_0
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/index
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/index-dir/the-real-index
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/wasm/index
+#	new file:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/wasm/index-dir/the-real-index
+#	new file:   Code/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	new file:   Code/CachedProfilesData/__default__profile__/extensions.user.cache
+#	new file:   Code/Code Cache/js/index
+#	new file:   Code/Code Cache/js/index-dir/the-real-index
+#	new file:   Code/Code Cache/wasm/index
+#	new file:   Code/Code Cache/wasm/index-dir/the-real-index
+#	new file:   Code/Cookies
+#	new file:   Code/Cookies-journal
+#	new file:   Code/Crashpad/client_id
+#	new file:   Code/Crashpad/settings.dat
+#	new file:   Code/DIPS
+#	new file:   Code/DIPS-wal
+#	new file:   Code/DawnGraphiteCache/data_0
+#	new file:   Code/DawnGraphiteCache/data_1
+#	new file:   Code/DawnGraphiteCache/data_2
+#	new file:   Code/DawnGraphiteCache/data_3
+#	new file:   Code/DawnGraphiteCache/index
+#	new file:   Code/DawnWebGPUCache/data_0
+#	new file:   Code/DawnWebGPUCache/data_1
+#	new file:   Code/DawnWebGPUCache/data_2
+#	new file:   Code/DawnWebGPUCache/data_3
+#	new file:   Code/DawnWebGPUCache/index
+#	new file:   Code/Dictionaries/en-US-10-1.bdic
+#	new file:   Code/GPUCache/data_0
+#	new file:   Code/GPUCache/data_1
+#	new file:   Code/GPUCache/data_2
+#	new file:   Code/GPUCache/data_3
+#	new file:   Code/GPUCache/index
+#	new file:   Code/Local Storage/leveldb/000003.log
+#	new file:   Code/Local Storage/leveldb/CURRENT
+#	new file:   Code/Local Storage/leveldb/LOCK
+#	new file:   Code/Local Storage/leveldb/LOG
+#	new file:   Code/Local Storage/leveldb/LOG.old
+#	new file:   Code/Local Storage/leveldb/MANIFEST-000001
+#	new file:   Code/Network Persistent State
+#	new file:   Code/Preferences
+#	new file:   Code/Session Storage/000003.log
+#	new file:   Code/Session Storage/CURRENT
+#	new file:   Code/Session Storage/LOCK
+#	new file:   Code/Session Storage/LOG
+#	new file:   Code/Session Storage/LOG.old
+#	new file:   Code/Session Storage/MANIFEST-000001
+#	new file:   Code/Shared Dictionary/cache/index
+#	new file:   Code/Shared Dictionary/cache/index-dir/the-real-index
+#	new file:   Code/Shared Dictionary/db
+#	new file:   Code/Shared Dictionary/db-journal
+#	new file:   Code/SharedStorage
+#	new file:   Code/SharedStorage-wal
+#	new file:   Code/TransportSecurity
+#	new file:   Code/Trust Tokens
+#	new file:   Code/Trust Tokens-journal
+#	new file:   Code/User/History/-188c9b34/0cGy.css
+#	new file:   Code/User/History/-188c9b34/0vjY.css
+#	new file:   Code/User/History/-188c9b34/2Noh.css
+#	new file:   Code/User/History/-188c9b34/3qa9.css
+#	new file:   Code/User/History/-188c9b34/4M7C.css
+#	new file:   Code/User/History/-188c9b34/4auw.css
+#	new file:   Code/User/History/-188c9b34/5LVC.css
+#	new file:   Code/User/History/-188c9b34/5jZM.css
+#	new file:   Code/User/History/-188c9b34/6AJK.css
+#	new file:   Code/User/History/-188c9b34/8Pkt.css
+#	new file:   Code/User/History/-188c9b34/9o0r.css
+#	new file:   Code/User/History/-188c9b34/A7b2.css
+#	new file:   Code/User/History/-188c9b34/AcHC.css
+#	new file:   Code/User/History/-188c9b34/B26s.css
+#	new file:   Code/User/History/-188c9b34/EEAv.css
+#	new file:   Code/User/History/-188c9b34/F2VK.css
+#	new file:   Code/User/History/-188c9b34/FYjm.css
+#	new file:   Code/User/History/-188c9b34/Gtrr.css
+#	new file:   Code/User/History/-188c9b34/HC9t.css
+#	new file:   Code/User/History/-188c9b34/HUOu.css
+#	new file:   Code/User/History/-188c9b34/JaFr.css
+#	new file:   Code/User/History/-188c9b34/JgS3.css
+#	new file:   Code/User/History/-188c9b34/MXZR.css
+#	new file:   Code/User/History/-188c9b34/P6ZV.css
+#	new file:   Code/User/History/-188c9b34/PNeR.css
+#	new file:   Code/User/History/-188c9b34/RNxJ.css
+#	new file:   Code/User/History/-188c9b34/TYGx.css
+#	new file:   Code/User/History/-188c9b34/XDTZ.css
+#	new file:   Code/User/History/-188c9b34/a2vj.css
+#	new file:   Code/User/History/-188c9b34/aCK5.css
+#	new file:   Code/User/History/-188c9b34/enRV.css
+#	new file:   Code/User/History/-188c9b34/entries.json
+#	new file:   Code/User/History/-188c9b34/gol4.css
+#	new file:   Code/User/History/-188c9b34/iEAD.css
+#	new file:   Code/User/History/-188c9b34/iciC.css
+#	new file:   Code/User/History/-188c9b34/jQga.css
+#	new file:   Code/User/History/-188c9b34/jWp1.css
+#	new file:   Code/User/History/-188c9b34/ks8g.css
+#	new file:   Code/User/History/-188c9b34/oHr2.css
+#	new file:   Code/User/History/-188c9b34/p4G4.css
+#	new file:   Code/User/History/-188c9b34/rBKf.css
+#	new file:   Code/User/History/-188c9b34/sGYG.css
+#	new file:   Code/User/History/-188c9b34/sW9N.css
+#	new file:   Code/User/History/-188c9b34/seVU.css
+#	new file:   Code/User/History/-188c9b34/vhKN.css
+#	new file:   Code/User/History/-188c9b34/x3DA.css
+#	new file:   Code/User/History/-188c9b34/yQAl.css
+#	new file:   Code/User/History/-188c9b34/ytvR.css
+#	new file:   Code/User/History/-23a13e51/5OIC.json
+#	new file:   Code/User/History/-23a13e51/6aNg.json
+#	new file:   Code/User/History/-23a13e51/GuZM.json
+#	new file:   Code/User/History/-23a13e51/entries.json
+#	new file:   Code/User/History/-23a13e51/lJf9.json
+#	new file:   Code/User/History/-23a13e51/qY2Y.json
+#	new file:   Code/User/History/-31f5043c/0LRR.conf
+#	new file:   Code/User/History/-31f5043c/2PaJ.conf
+#	new file:   Code/User/History/-31f5043c/3OCK.conf
+#	new file:   Code/User/History/-31f5043c/52NX.conf
+#	new file:   Code/User/History/-31f5043c/8AV8.conf
+#	new file:   Code/User/History/-31f5043c/8EPe.conf
+#	new file:   Code/User/History/-31f5043c/8o7B.conf
+#	new file:   Code/User/History/-31f5043c/9Xrl.conf
+#	new file:   Code/User/History/-31f5043c/ALWh.conf
+#	new file:   Code/User/History/-31f5043c/ANm3.conf
+#	new file:   Code/User/History/-31f5043c/DZBf.conf
+#	new file:   Code/User/History/-31f5043c/EWis.conf
+#	new file:   Code/User/History/-31f5043c/EyIf.conf
+#	new file:   Code/User/History/-31f5043c/HHbZ.conf
+#	new file:   Code/User/History/-31f5043c/INFw.conf
+#	new file:   Code/User/History/-31f5043c/J7Ay.conf
+#	new file:   Code/User/History/-31f5043c/Og3r.conf
+#	new file:   Code/User/History/-31f5043c/RiBX.conf
+#	new file:   Code/User/History/-31f5043c/SGYt.conf
+#	new file:   Code/User/History/-31f5043c/SQ1E.conf
+#	new file:   Code/User/History/-31f5043c/UePK.conf
+#	new file:   Code/User/History/-31f5043c/Vylu.conf
+#	new file:   Code/User/History/-31f5043c/WnvS.conf
+#	new file:   Code/User/History/-31f5043c/X27E.conf
+#	new file:   Code/User/History/-31f5043c/cV7q.conf
+#	new file:   Code/User/History/-31f5043c/ceQD.conf
+#	new file:   Code/User/History/-31f5043c/e3zl.conf
+#	new file:   Code/User/History/-31f5043c/eRsm.conf
+#	new file:   Code/User/History/-31f5043c/entries.json
+#	new file:   Code/User/History/-31f5043c/fJr0.conf
+#	new file:   Code/User/History/-31f5043c/iZYs.conf
+#	new file:   Code/User/History/-31f5043c/j9Ay.conf
+#	new file:   Code/User/History/-31f5043c/jG7b.conf
+#	new file:   Code/User/History/-31f5043c/jfsb.conf
+#	new file:   Code/User/History/-31f5043c/mB2p.conf
+#	new file:   Code/User/History/-31f5043c/mPFQ.conf
+#	new file:   Code/User/History/-31f5043c/mq9H.conf
+#	new file:   Code/User/History/-31f5043c/mtVh.conf
+#	new file:   Code/User/History/-31f5043c/nY2b.conf
+#	new file:   Code/User/History/-31f5043c/oflO.conf
+#	new file:   Code/User/History/-31f5043c/q4UQ.conf
+#	new file:   Code/User/History/-31f5043c/qNT7.conf
+#	new file:   Code/User/History/-31f5043c/qtBu.conf
+#	new file:   Code/User/History/-31f5043c/rVUi.conf
+#	new file:   Code/User/History/-31f5043c/uIsg.conf
+#	new file:   Code/User/History/-31f5043c/upco.conf
+#	new file:   Code/User/History/-31f5043c/vdil.conf
+#	new file:   Code/User/History/-31f5043c/wSXc.conf
+#	new file:   Code/User/History/-31f5043c/xdEa.conf
+#	new file:   Code/User/History/-31f5043c/yHmm.conf
+#	new file:   Code/User/History/-31f5043c/yXr9.conf
+#	new file:   Code/User/History/-4d9dfc52/1cMU.json
+#	new file:   Code/User/History/-4d9dfc52/1maQ.json
+#	new file:   Code/User/History/-4d9dfc52/2XVT.json
+#	new file:   Code/User/History/-4d9dfc52/5OsM.json
+#	new file:   Code/User/History/-4d9dfc52/B4h8.json
+#	new file:   Code/User/History/-4d9dfc52/Dfjc.json
+#	new file:   Code/User/History/-4d9dfc52/FnjL.json
+#	new file:   Code/User/History/-4d9dfc52/GBl5.json
+#	new file:   Code/User/History/-4d9dfc52/KxMh.json
+#	new file:   Code/User/History/-4d9dfc52/M3GL.json
+#	new file:   Code/User/History/-4d9dfc52/QVpX.json
+#	new file:   Code/User/History/-4d9dfc52/QbZe.json
+#	new file:   Code/User/History/-4d9dfc52/ZI6T.json
+#	new file:   Code/User/History/-4d9dfc52/ZRLH.json
+#	new file:   Code/User/History/-4d9dfc52/bqaB.json
+#	new file:   Code/User/History/-4d9dfc52/entries.json
+#	new file:   Code/User/History/-4d9dfc52/hfd6.json
+#	new file:   Code/User/History/-4d9dfc52/ihC3.json
+#	new file:   Code/User/History/-4d9dfc52/ooec.json
+#	new file:   Code/User/History/-4d9dfc52/tDLQ.json
+#	new file:   Code/User/History/-4d9dfc52/u3A8.json
+#	new file:   Code/User/History/-4d9dfc52/uIFg.json
+#	new file:   Code/User/History/-4d9dfc52/uVk8.json
+#	new file:   Code/User/History/-4d9dfc52/wIvb.json
+#	new file:   Code/User/History/-57bcd8bf/Bchz
+#	new file:   Code/User/History/-57bcd8bf/EhQA
+#	new file:   Code/User/History/-57bcd8bf/SeGy
+#	new file:   Code/User/History/-57bcd8bf/Sjd5
+#	new file:   Code/User/History/-57bcd8bf/entries.json
+#	new file:   Code/User/History/-57bcd8bf/sAGA
+#	new file:   Code/User/History/-57bcd8bf/zPy7
+#	new file:   Code/User/History/-70c4639c/IOUo
+#	new file:   Code/User/History/-70c4639c/entries.json
+#	new file:   Code/User/History/-70c4639c/n3vf
+#	new file:   Code/User/History/-70c4639c/ukeF
+#	new file:   Code/User/History/3a3c1369/2mUl.conf
+#	new file:   Code/User/History/3a3c1369/Qd6S.conf
+#	new file:   Code/User/History/3a3c1369/SEbX.conf
+#	new file:   Code/User/History/3a3c1369/entries.json
+#	new file:   Code/User/History/3cae5830/5RGt.json
+#	new file:   Code/User/History/3cae5830/KAGe.json
+#	new file:   Code/User/History/3cae5830/VfVC.json
+#	new file:   Code/User/History/3cae5830/entries.json
+#	new file:   Code/User/History/3cae5830/uFgW.json
+#	new file:   Code/User/History/4268d084/8ZDp.conf
+#	new file:   Code/User/History/4268d084/CWxn.conf
+#	new file:   Code/User/History/4268d084/cMC8.conf
+#	new file:   Code/User/History/4268d084/dYVt.conf
+#	new file:   Code/User/History/4268d084/entries.json
+#	new file:   Code/User/History/4268d084/fB0f.conf
+#	new file:   Code/User/History/4f0d58fe/GTKv.css
+#	new file:   Code/User/History/4f0d58fe/GhTM.css
+#	new file:   Code/User/History/4f0d58fe/entries.json
+#	new file:   Code/User/History/4f0d58fe/nGNg.css
+#	new file:   Code/User/History/7a32afe7/0Cs1.css
+#	new file:   Code/User/History/7a32afe7/2jTk.css
+#	new file:   Code/User/History/7a32afe7/7VTI.css
+#	new file:   Code/User/History/7a32afe7/7cWx.css
+#	new file:   Code/User/History/7a32afe7/94En.css
+#	new file:   Code/User/History/7a32afe7/9kXK.css
+#	new file:   Code/User/History/7a32afe7/JPQN.css
+#	new file:   Code/User/History/7a32afe7/Kv1C.css
+#	new file:   Code/User/History/7a32afe7/M0kL.css
+#	new file:   Code/User/History/7a32afe7/UCa0.css
+#	new file:   Code/User/History/7a32afe7/UbH0.css
+#	new file:   Code/User/History/7a32afe7/V5i7.css
+#	new file:   Code/User/History/7a32afe7/ZoZu.css
+#	new file:   Code/User/History/7a32afe7/aetB.css
+#	new file:   Code/User/History/7a32afe7/bxdp.css
+#	new file:   Code/User/History/7a32afe7/entries.json
+#	new file:   Code/User/History/7a32afe7/fcye.css
+#	new file:   Code/User/History/7a32afe7/gUqe.css
+#	new file:   Code/User/History/7a32afe7/gvrg.css
+#	new file:   Code/User/History/7a32afe7/z78D.css
+#	new file:   Code/User/globalStorage/state.vscdb
+#	new file:   Code/User/globalStorage/state.vscdb.backup
+#	new file:   Code/User/globalStorage/storage.json
+#	new file:   Code/User/settings.json
+#	new file:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/state.vscdb
+#	new file:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/state.vscdb.backup
+#	new file:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/workspace.json
+#	new file:   Code/code.lock
+#	new file:   Code/languagepacks.json
+#	new file:   Code/logs/20250905T190722/main.log
+#	new file:   Code/logs/20250905T190722/network-shared.log
+#	new file:   Code/logs/20250905T190722/remoteTunnelService.log
+#	new file:   Code/logs/20250905T190722/sharedprocess.log
+#	new file:   Code/logs/20250905T190722/telemetry.log
+#	new file:   Code/logs/20250905T190722/userDataSync.log
+#	new file:   Code/logs/20250905T190722/window1/renderer.log
+#	new file:   Code/logs/20250905T190722/window1/views.log
+#	new file:   Code/logs/20250905T190725/main.log
+#	new file:   Code/logs/20250905T190725/window1/renderer.log
+#	new file:   Code/logs/20250905T190725/window1/views.log
+#	new file:   Code/logs/20250907T092357/editSessions.log
+#	new file:   Code/logs/20250907T092357/main.log
+#	new file:   Code/logs/20250907T092357/network-shared.log
+#	new file:   Code/logs/20250907T092357/remoteTunnelService.log
+#	new file:   Code/logs/20250907T092357/sharedprocess.log
+#	new file:   Code/logs/20250907T092357/telemetry.log
+#	new file:   Code/logs/20250907T092357/terminal.log
+#	new file:   Code/logs/20250907T092357/userDataSync.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/exthost.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/vscode.css-language-features/CSS Language Server.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250907T092357/window1/exthost/vscode.json-language-features/JSON Language Server.log
+#	new file:   Code/logs/20250907T092357/window1/network.log
+#	new file:   Code/logs/20250907T092357/window1/notebook.rendering.log
+#	new file:   Code/logs/20250907T092357/window1/output_20250907T092358/tasks.log
+#	new file:   Code/logs/20250907T092357/window1/renderer.log
+#	new file:   Code/logs/20250907T092357/window1/textModelChanges.log
+#	new file:   Code/logs/20250907T092357/window1/views.log
+#	new file:   Code/logs/20250907T100736/editSessions.log
+#	new file:   Code/logs/20250907T100736/main.log
+#	new file:   Code/logs/20250907T100736/network-shared.log
+#	new file:   Code/logs/20250907T100736/remoteTunnelService.log
+#	new file:   Code/logs/20250907T100736/sharedprocess.log
+#	new file:   Code/logs/20250907T100736/telemetry.log
+#	new file:   Code/logs/20250907T100736/terminal.log
+#	new file:   Code/logs/20250907T100736/userDataSync.log
+#	new file:   Code/logs/20250907T100736/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250907T100736/window1/exthost/exthost.log
+#	new file:   Code/logs/20250907T100736/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250907T100736/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250907T100736/window1/network.log
+#	new file:   Code/logs/20250907T100736/window1/notebook.rendering.log
+#	new file:   Code/logs/20250907T100736/window1/output_20250907T100737/tasks.log
+#	new file:   Code/logs/20250907T100736/window1/renderer.log
+#	new file:   Code/logs/20250907T100736/window1/textModelChanges.log
+#	new file:   Code/logs/20250907T100736/window1/views.log
+#	new file:   Code/logs/20250908T103024/editSessions.log
+#	new file:   Code/logs/20250908T103024/main.log
+#	new file:   Code/logs/20250908T103024/network-shared.log
+#	new file:   Code/logs/20250908T103024/remoteTunnelService.log
+#	new file:   Code/logs/20250908T103024/sharedprocess.log
+#	new file:   Code/logs/20250908T103024/telemetry.log
+#	new file:   Code/logs/20250908T103024/terminal.log
+#	new file:   Code/logs/20250908T103024/userDataSync.log
+#	new file:   Code/logs/20250908T103024/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250908T103024/window1/exthost/exthost.log
+#	new file:   Code/logs/20250908T103024/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250908T103024/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250908T103024/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250908T103024/window1/fileWatcher.log
+#	new file:   Code/logs/20250908T103024/window1/network.log
+#	new file:   Code/logs/20250908T103024/window1/notebook.rendering.log
+#	new file:   Code/logs/20250908T103024/window1/output_20250908T103025/tasks.log
+#	new file:   Code/logs/20250908T103024/window1/output_20250908T103035/tasks.log
+#	new file:   Code/logs/20250908T103024/window1/renderer.log
+#	new file:   Code/logs/20250908T103024/window1/textModelChanges.log
+#	new file:   Code/logs/20250908T103024/window1/views.log
+#	new file:   Code/logs/20250908T122143/editSessions.log
+#	new file:   Code/logs/20250908T122143/main.log
+#	new file:   Code/logs/20250908T122143/network-shared.log
+#	new file:   Code/logs/20250908T122143/remoteTunnelService.log
+#	new file:   Code/logs/20250908T122143/sharedprocess.log
+#	new file:   Code/logs/20250908T122143/telemetry.log
+#	new file:   Code/logs/20250908T122143/terminal.log
+#	new file:   Code/logs/20250908T122143/userDataSync.log
+#	new file:   Code/logs/20250908T122143/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250908T122143/window1/exthost/exthost.log
+#	new file:   Code/logs/20250908T122143/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250908T122143/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250908T122143/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250908T122143/window1/network.log
+#	new file:   Code/logs/20250908T122143/window1/notebook.rendering.log
+#	new file:   Code/logs/20250908T122143/window1/output_20250908T122145/tasks.log
+#	new file:   Code/logs/20250908T122143/window1/renderer.log
+#	new file:   Code/logs/20250908T122143/window1/textModelChanges.log
+#	new file:   Code/logs/20250908T122143/window1/views.log
+#	new file:   Code/logs/20250911T081239/editSessions.log
+#	new file:   Code/logs/20250911T081239/main.log
+#	new file:   Code/logs/20250911T081239/network-shared.log
+#	new file:   Code/logs/20250911T081239/remoteTunnelService.log
+#	new file:   Code/logs/20250911T081239/sharedprocess.log
+#	new file:   Code/logs/20250911T081239/telemetry.log
+#	new file:   Code/logs/20250911T081239/terminal.log
+#	new file:   Code/logs/20250911T081239/userDataSync.log
+#	new file:   Code/logs/20250911T081239/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250911T081239/window1/exthost/exthost.log
+#	new file:   Code/logs/20250911T081239/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250911T081239/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250911T081239/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250911T081239/window1/network.log
+#	new file:   Code/logs/20250911T081239/window1/notebook.rendering.log
+#	new file:   Code/logs/20250911T081239/window1/output_20250911T081243/tasks.log
+#	new file:   Code/logs/20250911T081239/window1/renderer.log
+#	new file:   Code/logs/20250911T081239/window1/textModelChanges.log
+#	new file:   Code/logs/20250911T081239/window1/views.log
+#	new file:   Code/logs/20250911T090300/editSessions.log
+#	new file:   Code/logs/20250911T090300/main.log
+#	new file:   Code/logs/20250911T090300/network-shared.log
+#	new file:   Code/logs/20250911T090300/remoteTunnelService.log
+#	new file:   Code/logs/20250911T090300/sharedprocess.log
+#	new file:   Code/logs/20250911T090300/telemetry.log
+#	new file:   Code/logs/20250911T090300/terminal.log
+#	new file:   Code/logs/20250911T090300/userDataSync.log
+#	new file:   Code/logs/20250911T090300/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250911T090300/window1/exthost/exthost.log
+#	new file:   Code/logs/20250911T090300/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250911T090300/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250911T090300/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250911T090300/window1/exthost/vscode.json-language-features/JSON Language Server.log
+#	new file:   Code/logs/20250911T090300/window1/network.log
+#	new file:   Code/logs/20250911T090300/window1/notebook.rendering.log
+#	new file:   Code/logs/20250911T090300/window1/output_20250911T090304/tasks.log
+#	new file:   Code/logs/20250911T090300/window1/renderer.log
+#	new file:   Code/logs/20250911T090300/window1/textModelChanges.log
+#	new file:   Code/logs/20250911T090300/window1/views.log
+#	new file:   Code/logs/20250914T190606/editSessions.log
+#	new file:   Code/logs/20250914T190606/main.log
+#	new file:   Code/logs/20250914T190606/network-shared.log
+#	new file:   Code/logs/20250914T190606/remoteTunnelService.log
+#	new file:   Code/logs/20250914T190606/sharedprocess.log
+#	new file:   Code/logs/20250914T190606/telemetry.log
+#	new file:   Code/logs/20250914T190606/terminal.log
+#	new file:   Code/logs/20250914T190606/userDataSync.log
+#	new file:   Code/logs/20250914T190606/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250914T190606/window1/exthost/exthost.log
+#	new file:   Code/logs/20250914T190606/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250914T190606/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250914T190606/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250914T190606/window1/network.log
+#	new file:   Code/logs/20250914T190606/window1/notebook.rendering.log
+#	new file:   Code/logs/20250914T190606/window1/output_20250914T190609/tasks.log
+#	new file:   Code/logs/20250914T190606/window1/renderer.log
+#	new file:   Code/logs/20250914T190606/window1/textModelChanges.log
+#	new file:   Code/logs/20250914T190606/window1/views.log
+#	new file:   Code/logs/20250929T132742/editSessions.log
+#	new file:   Code/logs/20250929T132742/main.log
+#	new file:   Code/logs/20250929T132742/network-shared.log
+#	new file:   Code/logs/20250929T132742/remoteTunnelService.log
+#	new file:   Code/logs/20250929T132742/sharedprocess.log
+#	new file:   Code/logs/20250929T132742/telemetry.log
+#	new file:   Code/logs/20250929T132742/terminal.log
+#	new file:   Code/logs/20250929T132742/userDataSync.log
+#	new file:   Code/logs/20250929T132742/window1/exthost/extHostTelemetry.log
+#	new file:   Code/logs/20250929T132742/window1/exthost/exthost.log
+#	new file:   Code/logs/20250929T132742/window1/exthost/vscode.git/Git.log
+#	new file:   Code/logs/20250929T132742/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code/logs/20250929T132742/window1/exthost/vscode.github/GitHub.log
+#	new file:   Code/logs/20250929T132742/window1/network.log
+#	new file:   Code/logs/20250929T132742/window1/notebook.rendering.log
+#	new file:   Code/logs/20250929T132742/window1/output_20250929T132746/tasks.log
+#	new file:   Code/logs/20250929T132742/window1/renderer.log
+#	new file:   Code/logs/20250929T132742/window1/textModelChanges.log
+#	new file:   Code/logs/20250929T132742/window1/views.log
+#	new file:   Code/machineid
+#	new file:   GIMP/2.10/action-history
+#	new file:   GIMP/2.10/colorrc
+#	new file:   GIMP/2.10/contextrc
+#	new file:   GIMP/2.10/controllerrc
+#	new file:   GIMP/2.10/devicerc
+#	new file:   GIMP/2.10/dockrc
+#	new file:   GIMP/2.10/internal-data/custom.ggr
+#	new file:   GIMP/2.10/menurc
+#	new file:   GIMP/2.10/parasiterc
+#	new file:   GIMP/2.10/pluginrc
+#	new file:   GIMP/2.10/sessionrc
+#	new file:   GIMP/2.10/tags.xml
+#	new file:   GIMP/2.10/templaterc
+#	new file:   GIMP/2.10/themerc
+#	new file:   GIMP/2.10/tool-options/gimp-airbrush-tool
+#	new file:   GIMP/2.10/tool-options/gimp-align-tool
+#	new file:   GIMP/2.10/tool-options/gimp-brightness-contrast-tool
+#	new file:   GIMP/2.10/tool-options/gimp-bucket-fill-tool
+#	new file:   GIMP/2.10/tool-options/gimp-by-color-select-tool
+#	new file:   GIMP/2.10/tool-options/gimp-cage-tool
+#	new file:   GIMP/2.10/tool-options/gimp-clone-tool
+#	new file:   GIMP/2.10/tool-options/gimp-color-picker-tool
+#	new file:   GIMP/2.10/tool-options/gimp-convolve-tool
+#	new file:   GIMP/2.10/tool-options/gimp-crop-tool
+#	new file:   GIMP/2.10/tool-options/gimp-curves-tool
+#	new file:   GIMP/2.10/tool-options/gimp-dodge-burn-tool
+#	new file:   GIMP/2.10/tool-options/gimp-ellipse-select-tool
+#	new file:   GIMP/2.10/tool-options/gimp-eraser-tool
+#	new file:   GIMP/2.10/tool-options/gimp-flip-tool
+#	new file:   GIMP/2.10/tool-options/gimp-foreground-select-tool
+#	new file:   GIMP/2.10/tool-options/gimp-free-select-tool
+#	new file:   GIMP/2.10/tool-options/gimp-fuzzy-select-tool
+#	new file:   GIMP/2.10/tool-options/gimp-gegl-tool
+#	new file:   GIMP/2.10/tool-options/gimp-gradient-tool
+#	new file:   GIMP/2.10/tool-options/gimp-handle-transform-tool
+#	new file:   GIMP/2.10/tool-options/gimp-heal-tool
+#	new file:   GIMP/2.10/tool-options/gimp-ink-tool
+#	new file:   GIMP/2.10/tool-options/gimp-iscissors-tool
+#	new file:   GIMP/2.10/tool-options/gimp-levels-tool
+#	new file:   GIMP/2.10/tool-options/gimp-measure-tool
+#	new file:   GIMP/2.10/tool-options/gimp-move-tool
+#	new file:   GIMP/2.10/tool-options/gimp-mypaint-brush-tool
+#	new file:   GIMP/2.10/tool-options/gimp-offset-tool
+#	new file:   GIMP/2.10/tool-options/gimp-operation-tool
+#	new file:   GIMP/2.10/tool-options/gimp-paintbrush-tool
+#	new file:   GIMP/2.10/tool-options/gimp-pencil-tool
+#	new file:   GIMP/2.10/tool-options/gimp-perspective-clone-tool
+#	new file:   GIMP/2.10/tool-options/gimp-perspective-tool
+#	new file:   GIMP/2.10/tool-options/gimp-rect-select-tool
+#	new file:   GIMP/2.10/tool-options/gimp-rotate-tool
+#	new file:   GIMP/2.10/tool-options/gimp-scale-tool
+#	new file:   GIMP/2.10/tool-options/gimp-shear-tool
+#	new file:   GIMP/2.10/tool-options/gimp-smudge-tool
+#	new file:   GIMP/2.10/tool-options/gimp-text-tool
+#	new file:   GIMP/2.10/tool-options/gimp-threshold-tool
+#	new file:   GIMP/2.10/tool-options/gimp-transform-3d-tool
+#	new file:   GIMP/2.10/tool-options/gimp-unified-transform-tool
+#	new file:   GIMP/2.10/tool-options/gimp-vector-tool
+#	new file:   GIMP/2.10/tool-options/gimp-warp-tool
+#	new file:   GIMP/2.10/tool-options/gimp-zoom-tool
+#	new file:   GIMP/2.10/toolrc
+#	new file:   GIMP/2.10/unitrc
+#	new file:   cinnamon/spices/calendar@cinnamon.org/13.json
+#	new file:   cinnamon/spices/cornerbar@cinnamon.org/14.json
+#	new file:   cinnamon/spices/favorites@cinnamon.org/9.json
+#	new file:   cinnamon/spices/grouped-window-list@cinnamon.org/2.json
+#	new file:   cinnamon/spices/menu@cinnamon.org/0.json
+#	new file:   cinnamon/spices/network@cinnamon.org/network@cinnamon.org.json
+#	new file:   cinnamon/spices/notifications@cinnamon.org/notifications@cinnamon.org.json
+#	new file:   cinnamon/spices/power@cinnamon.org/power@cinnamon.org.json
+#	new file:   cinnamon/spices/printers@cinnamon.org/6.json
+#	new file:   cinnamon/spices/sound@cinnamon.org/sound@cinnamon.org.json
+#	new file:   dconf/.keep
+#	new file:   dconf/user
+#	new file:   enchant/he.dic
+#	new file:   enchant/he.exc
+#	new file:   environment.d/10-home-manager.conf
+#	new file:   evolution/sources/system-proxy.source
+#	new file:   gtk-2.0/gtkfilechooser.ini
+#	new file:   gtk-3.0/settings.ini
+#	new file:   gtk-4.0/settings.ini
+#	new file:   home-manager/flake.nix
+#	new file:   home-manager/home.nix
+#	new file:   hypr/hyprland.conf
+#	new file:   hypr/hyprlock.conf
+#	new file:   hypr/hyprpaper.conf
+#	new file:   kitty/kitty.conf
+#	new file:   libreoffice/4/user/GraphicsRenderTests.log
+#	new file:   libreoffice/4/user/additions/20616/libreoffice-style-yaru-bark-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20617/libreoffice-style-yaru-blue-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20618/libreoffice-style-yaru-magenta-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20619/libreoffice-style-yaru-mate__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20620/libreoffice-style-yaru-olive-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20621/libreoffice-style-yaru-prussiangreen-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20622/libreoffice-style-yaru-purple-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20623/libreoffice-style-yaru-red-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20624/libreoffice-style-yaru-sage-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/20625/libreoffice-style-yaru-viridian-v2__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/41982/Screenshot_20241214_162839__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/801/2020-06-01-08_41_57-Untitled-1-LibreOfficeDev-Writer__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/galaxy-icon-theme/galaxy-icon-theme_PadWzMzNiwxMDAsIkZGRkZGRiIsMF0__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/high-contrast-icon-theme/high-contrast-icon-theme_9b15ccaf-06b8-48c5-9d31-da7ae05fb9b1__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/industrial-icon-theme/2020-05-28-10_46_43-Untitled-1-LibreOfficeDev-Writer__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/oxygen-icon-theme/oxygen-icon-theme__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/tango-icon-theme-for-libreoffice/tango-icon-theme-for-libreoffice_33134e92-e9b7-4ed4-86b1-8b0e2fd209e8__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/additions/yaru-icon-theme/libreoffice-style-yaru-v5__ScaleMaxHeightWzIwMF0.png
+#	new file:   libreoffice/4/user/autotext/mytexts.bau
+#	new file:   libreoffice/4/user/backup/000 Recommendation Procedures.doc_1.odt
+#	new file:   libreoffice/4/user/backup/Chapter 1_1 Notes with questions (STUDENT).docx.bak
+#	new file:   libreoffice/4/user/backup/Writing Prompt #1.docx.bak
+#	new file:   libreoffice/4/user/backup/Writing Prompt #2 Student(1).docx.bak
+#	new file:   libreoffice/4/user/backup/Writing Prompt #3 Student.docx.bak
+#	new file:   libreoffice/4/user/basic/Standard/Module1.xba
+#	new file:   libreoffice/4/user/basic/Standard/dialog.xlb
+#	new file:   libreoffice/4/user/basic/Standard/script.xlb
+#	new file:   libreoffice/4/user/basic/dialog.xlc
+#	new file:   libreoffice/4/user/basic/script.xlc
+#	new file:   libreoffice/4/user/config/autotbl.fmt
+#	new file:   libreoffice/4/user/config/fontnameboxmruentries
+#	new file:   libreoffice/4/user/config/javasettings_Linux_X86_64.xml
+#	new file:   libreoffice/4/user/database/biblio.odb
+#	new file:   libreoffice/4/user/database/biblio/biblio.dbf
+#	new file:   libreoffice/4/user/database/biblio/biblio.dbt
+#	new file:   libreoffice/4/user/database/evolocal.odb
+#	new file:   libreoffice/4/user/extensions/buildid
+#	new file:   libreoffice/4/user/extensions/bundled/lastsynchronized
+#	new file:   libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/extensions/shared/lastsynchronized
+#	new file:   libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/gallery/sg30.sdv
+#	new file:   libreoffice/4/user/gallery/sg30.thm
+#	new file:   libreoffice/4/user/pack/ExtensionInfo.pack
+#	new file:   libreoffice/4/user/pack/autotext/mytexts.pack
+#	new file:   libreoffice/4/user/pack/basic/Standard/Module1.pack
+#	new file:   libreoffice/4/user/pack/basic/Standard/dialog.pack
+#	new file:   libreoffice/4/user/pack/basic/Standard/script.pack
+#	new file:   libreoffice/4/user/pack/basic/dialog.pack
+#	new file:   libreoffice/4/user/pack/basic/script.pack
+#	new file:   libreoffice/4/user/pack/config/autotbl.pack
+#	new file:   libreoffice/4/user/pack/config/fontnameboxmruentries.pack
+#	new file:   libreoffice/4/user/pack/config/javasettings_Linux_X86_64.pack
+#	new file:   libreoffice/4/user/pack/database/biblio.pack
+#	new file:   libreoffice/4/user/pack/database/biblio/biblio.pack
+#	new file:   libreoffice/4/user/pack/database/evolocal.pack
+#	new file:   libreoffice/4/user/pack/registrymodifications.pack
+#	new file:   libreoffice/4/user/registrymodifications.xcu
+#	new file:   libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+#	new file:   libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+#	new file:   mako/config
+#	new file:   menus/cinnamon-applications-merged
+#	new file:   mimeapps.list
+#	new file:   nemo/desktop-metadata
+#	new file:   nixos/configuration.nix
+#	new file:   nixos/configuration.nix.save
+#	new file:   nixos/configuration.nix.save.1
+#	new file:   nixos/flake.lock
+#	new file:   nixos/flake.nix
+#	new file:   nixos/hardware-configuration.nix
+#	new file:   nixos/home.nix
+#	new file:   nwg-look/config
+#	new file:   pavucontrol.ini
+#	new file:   pix/active_filter.xml
+#	new file:   pix/filters.xml
+#	new file:   pix/history.xbel
+#	new file:   pulse/cookie
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/ad-state-storage.bnk
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/frecency.pb
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/local-files.bnk
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/local_sync_state
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/log
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/log-tracked
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/pending-messages_seq_nr
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/prefs
+#	new file:   spotify/Users/31ae64tf5yjnfn2nplzlnr3jfmou-user/watch-sources.bnk
+#	new file:   spotify/prefs
+#	new file:   systemd/user/tray.target
+#	new file:   user-dirs.dirs
+#	new file:   user-dirs.locale
+#	new file:   waybar/config
+#	new file:   waybar/config.sh
+#	new file:   waybar/modules.json
+#	new file:   waybar/style.css
+#	new file:   wlogout/layout
+#	new file:   wlogout/lock_black.png
+#	new file:   wlogout/reboot_black.png
+#	new file:   wlogout/shutdown_black.png
+#	new file:   wlogout/style.css
+#	new file:   wofi/config
+#	new file:   wofi/style.css
+#	new file:   x-cinnamon-xdg-terminals.list
+#	new file:   xdg-terminals.list
+#	new file:   xed/accels
+#
+# Changes not staged for commit:
+#	deleted:    Code/Backups/d1630106495fc1ed5963e248ff3152ca/file/-7fd447a8
+#	modified:   Code/Cache/Cache_Data/323c4847f42b636f_0
+#	modified:   Code/Cache/Cache_Data/9f50bddbd978eddd_0
+#	modified:   Code/Cache/Cache_Data/a05785a72c64fc1d_0
+#	modified:   Code/Cache/Cache_Data/d121e2a6335b7510_0
+#	modified:   Code/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/index-dir/the-real-index
+#	modified:   Code/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	modified:   Code/DIPS
+#	modified:   Code/DIPS-wal
+#	modified:   Code/DawnGraphiteCache/data_1
+#	modified:   Code/DawnGraphiteCache/index
+#	modified:   Code/DawnWebGPUCache/data_1
+#	modified:   Code/DawnWebGPUCache/index
+#	modified:   Code/GPUCache/data_0
+#	modified:   Code/GPUCache/data_1
+#	modified:   Code/GPUCache/data_2
+#	modified:   Code/GPUCache/data_3
+#	modified:   Code/GPUCache/index
+#	modified:   Code/Local Storage/leveldb/000003.log
+#	modified:   Code/Local Storage/leveldb/LOG
+#	modified:   Code/Local Storage/leveldb/LOG.old
+#	modified:   Code/Network Persistent State
+#	modified:   Code/Session Storage/000003.log
+#	modified:   Code/Session Storage/LOG
+#	modified:   Code/Session Storage/LOG.old
+#	modified:   Code/TransportSecurity
+#	modified:   Code/User/History/4268d084/entries.json
+#	modified:   Code/User/globalStorage/state.vscdb
+#	modified:   Code/User/globalStorage/state.vscdb.backup
+#	modified:   Code/User/globalStorage/storage.json
+#	modified:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/state.vscdb
+#	modified:   Code/User/workspaceStorage/83164974d2eebc8cb3d25ae24180dfe9/state.vscdb.backup
+#	modified:   Code/code.lock
+#	deleted:    Code/logs/20250905T190722/main.log
+#	deleted:    Code/logs/20250905T190722/network-shared.log
+#	deleted:    Code/logs/20250905T190722/remoteTunnelService.log
+#	deleted:    Code/logs/20250905T190722/sharedprocess.log
+#	deleted:    Code/logs/20250905T190722/telemetry.log
+#	deleted:    Code/logs/20250905T190722/userDataSync.log
+#	deleted:    Code/logs/20250905T190722/window1/renderer.log
+#	deleted:    Code/logs/20250905T190722/window1/views.log
+#	deleted:    Code/logs/20250905T190725/main.log
+#	deleted:    Code/logs/20250905T190725/window1/renderer.log
+#	deleted:    Code/logs/20250905T190725/window1/views.log
+#	deleted:    Code/logs/20250907T092357/editSessions.log
+#	deleted:    Code/logs/20250907T092357/main.log
+#	deleted:    Code/logs/20250907T092357/network-shared.log
+#	deleted:    Code/logs/20250907T092357/remoteTunnelService.log
+#	deleted:    Code/logs/20250907T092357/sharedprocess.log
+#	deleted:    Code/logs/20250907T092357/telemetry.log
+#	deleted:    Code/logs/20250907T092357/terminal.log
+#	deleted:    Code/logs/20250907T092357/userDataSync.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/extHostTelemetry.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/exthost.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.css-language-features/CSS Language Server.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.git/Git.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code/logs/20250907T092357/window1/exthost/vscode.json-language-features/JSON Language Server.log
+#	deleted:    Code/logs/20250907T092357/window1/network.log
+#	deleted:    Code/logs/20250907T092357/window1/notebook.rendering.log
+#	deleted:    Code/logs/20250907T092357/window1/output_20250907T092358/tasks.log
+#	deleted:    Code/logs/20250907T092357/window1/renderer.log
+#	deleted:    Code/logs/20250907T092357/window1/textModelChanges.log
+#	deleted:    Code/logs/20250907T092357/window1/views.log
+#	modified:   Code/logs/20250929T132742/main.log
+#	modified:   Code/logs/20250929T132742/window1/exthost/exthost.log
+#	modified:   Code/logs/20250929T132742/window1/exthost/vscode.git/Git.log
+#	modified:   libreoffice/4/user/pack/registrymodifications.pack
+#	modified:   libreoffice/4/user/registrymodifications.xcu
+#
+# Untracked files:
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/3a2a95b4dc803df6_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/4100e91c61128003_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/584738c3dc420040_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/75f40798f04dbb5c_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/85ef27de1ed337bb_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/b3152d98c7433653_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/c2b1c1292565607a_0
+#	Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome/js/f0d33ceb6a5a06a9_0
+#	Code/User/History/-2b7f858e/
+#	Code/User/History/4268d084/uq0h.conf
+#	Code/User/History/768b01ee/
+#	Code/logs/20250930T095254/
+#	Code/logs/20251002T095055/
+#	Code/logs/20251003T103935/
+#	libreoffice/4/.lock
+#	libreoffice/4/user/backup/Room Project 1.docx_0.odt
+#	libreoffice/4/user/backup/Writing Prompt #4 Student.docx.bak
+#	libreoffice/4/user/store/
+#

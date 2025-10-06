@@ -1,0 +1,8 @@
+2025-10-06 08:02:13.598 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-06 08:02:13.631 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-06 08:02:13.631 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-06 08:02:14.761 [info] Started local extension host with pid 3374.
+2025-10-06 08:02:31.584 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-06 08:02:34.730 [info] [perf] Render performance baseline is 52ms
+2025-10-06 08:06:58.812 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-10-06 08:07:10.697 [warning] [backup tracker] suspended, ignoring unregister event file:///home/rohan/.config/.git/COMMIT_EDITMSG 

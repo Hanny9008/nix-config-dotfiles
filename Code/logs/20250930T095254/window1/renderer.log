@@ -1,0 +1,17 @@
+2025-09-30 09:52:56.222 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-30 09:52:56.255 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-30 09:52:56.255 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-30 09:52:57.017 [info] Started local extension host with pid 5162.
+2025-09-30 09:53:00.372 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-09-30 09:53:01.092 [info] [perf] Render performance baseline is 48ms
+2025-09-30 09:54:09.111 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Lg.C (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:422:29219)
+    at Lg.updateChildren (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:422:29000)
+    at yae.value (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2521:33728)
+    at I.C (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.D (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at I.fire (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at JIe.setVisible (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:559:2730)
+    at vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:585:13938
+    at Array.map (<anonymous>)
+    at Vd.setVisible (vscode-file://vscode-app/nix/store/lkqhb0clpl2f4nd5907gacy5wn6gp7js-vscode-1.103.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:585:13929)

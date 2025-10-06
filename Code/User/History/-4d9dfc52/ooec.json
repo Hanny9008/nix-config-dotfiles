@@ -1,0 +1,180 @@
+{
+    // Workspaces
+    "hyprland/workspaces" : {
+        "on-click": "activate",
+        "active-only": false,
+        "all-outputs": true,
+        "format": "{}",
+        "format-icons": {
+			"urgent": "",
+			"active": "",
+			"default": ""
+        },
+        "persistent-workspaces": {
+             "*": 5
+        }       
+    },
+
+    // Hyprland Window
+    "hyprland/window": {
+        "separate-outputs": true
+    },
+
+    // Wofi Application Launcher
+    "custom/appmenu": {
+        "format": " Apps",
+        "tooltip-format": "Left: Open the application launcher",
+        "on-click": "wofi -S drun",
+        "tooltip": false
+    },
+
+    "battery":{
+        "format": "󰁹 {capacity}%",
+        "tooltip": true,
+        "tooltip-format": "Time remaining: {time}"
+        
+    },
+    
+    // Power Menu
+    "custom/exit": {
+        "format": "⏻",
+        "tooltip-format": "Powermenu",
+        "on-click": "wlogout -b 3",
+        "tooltip": false
+    },
+
+    // Keyboard State
+    "keyboard-state": {
+        "numlock": true,
+        "capslock": true,
+        "format": "{name} {icon}",
+        "format-icons": {
+            "locked": "",
+            "unlocked": ""
+        }
+    },
+
+    // System tray
+    "tray": {
+        // "icon-size": 21,
+        "spacing": 10
+    },
+
+    // Clock
+    "clock": {
+        "format":"{:%I:%M}",
+        "timezone": "America/New_York",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%Y-%m-%d}"
+    },
+
+    // System
+    "custom/system": {
+        "format": "",
+        "tooltip": false
+    },
+
+    "custom/gpu":{
+        "exec": "cat /sys/class/hwmon/hwmon2/device/gpu_busy_percent",
+        "format": "/ 󰢮 {}% ",
+        "return-type": "",
+        "interval": 1,
+        "on-click": "kitty -e htop"
+    },
+
+    // CPU
+    "cpu": {
+        "format": "/   {usage}% ",
+        "on-click": "kitty -e htop"
+    },
+
+    // Memory
+    "memory": {
+        "format": "/   {}% ",
+        "on-click": "kitty -e htop"
+    },
+
+    // Harddisc space used
+    "disk": {
+        "interval": 30,
+        "format": "D {percentage_used}% ",
+        "path": "/",
+        "on-click": "kitty -e htop"
+    }, 
+
+    "hyprland/language": {
+        "format": "/ K {short}"
+    },
+
+    // Group Hardware
+    "group/hardware": {
+        "orientation": "inherit",
+        "drawer": {
+            "transition-duration": 300,
+            "children-class": "not-memory",
+            "transition-left-to-right": false
+        },        
+        "modules": [
+            "custom/system",
+            "disk",
+            "cpu",
+            "custom/gpu",
+            "memory",
+            "hyprland/language"
+        ]
+    },
+    
+   // Network
+    "network": {
+        "format": "{ifname}",
+        "format-wifi": "  {signalStrength}%",
+        "format-ethernet": "󰈀 {ifname}",
+        "format-disconnected": "Not connected", //An empty format will hide the module.
+        "tooltip-format": " {ifname} via {gwaddri}",
+        "tooltip-format-wifi": "   {essid} ({signalStrength}%)",
+        "tooltip-format-ethernet": "  {ifname} ({ipaddr}/{cidr})",
+        "tooltip-format-disconnected": "Disconnected",
+        "max-length": 50,
+        "on-click": "kitty -e nmtui"
+    },
+
+    // Pulseaudio
+    "pulseaudio": {
+        "scroll-step": 1, // %, can be a float
+        "format": "󰓃 {volume}%",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "on-click": "pwvucontrol"
+    },
+
+    // Bluetooth
+    "bluetooth": {
+        "format":" 󰂯 ",
+        "format-connected": " 󰂱 ",
+        "format-disabled": " 󰂲 ",
+        "format-off": " 󰂲 ",
+        "interval": 30,
+        "on-click": "blueman-manager",
+        "format-no-controller": ""
+    },
+    // Other
+    "user": {
+        "format": "{user}",
+        "interval": 60,
+        "icon": false,
+    },
+
+    // Idle Inhibator
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "tooltip": true,
+        "format-icons":{
+            "activated": "",
+            "deactivated": ""
+        },
+        "on-click-right": "hyprlock"        
+    }
+}

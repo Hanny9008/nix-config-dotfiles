@@ -1,0 +1,242 @@
+2025-09-30 09:52:59.927 [info] [main] Log level: Info
+2025-09-30 09:52:59.927 [info] [main] Validating found git in: "git"
+2025-09-30 09:52:59.927 [info] [main] Using git "2.50.1" from "git"
+2025-09-30 09:52:59.927 [info] [Model][doInitialScan] Initial repository scan started
+2025-09-30 09:52:59.927 [info] > git rev-parse --show-toplevel [25ms]
+2025-09-30 09:52:59.927 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [17ms]
+2025-09-30 09:52:59.927 [info] [Model][openRepository] Opened repository (path): /home/rohan/.config
+2025-09-30 09:52:59.927 [info] [Model][openRepository] Opened repository (real path): /home/rohan/.config
+2025-09-30 09:52:59.927 [info] [Model][openRepository] Opened repository (kind): repository
+2025-09-30 09:52:59.927 [info] > git rev-parse --show-toplevel [11ms]
+2025-09-30 09:52:59.927 [info] > git config --get commit.template [21ms]
+2025-09-30 09:52:59.927 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:52:59.927 [info] > git rev-parse --show-toplevel [67ms]
+2025-09-30 09:52:59.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [68ms]
+2025-09-30 09:52:59.927 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:52:59.929 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [47ms]
+2025-09-30 09:52:59.931 [info] > git rev-parse --show-toplevel [74ms]
+2025-09-30 09:52:59.955 [info] > git status -z -uall [85ms]
+2025-09-30 09:53:00.012 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-09-30 09:53:00.012 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:00.013 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-09-30 09:53:00.015 [info] > git rev-parse --show-toplevel [62ms]
+2025-09-30 09:53:00.030 [info] > git config --get commit.template [19ms]
+2025-09-30 09:53:00.037 [info] > git rev-parse --show-toplevel [9ms]
+2025-09-30 09:53:00.050 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:00.061 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-09-30 09:53:00.061 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:00.310 [info] > git status -z -uall [239ms]
+2025-09-30 09:53:00.311 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [228ms]
+2025-09-30 09:53:00.332 [info] > git rev-parse --show-toplevel [272ms]
+2025-09-30 09:53:00.365 [info] > git check-ignore -v -z --stdin [23ms]
+2025-09-30 09:53:00.367 [info] > git rev-parse --show-toplevel [9ms]
+2025-09-30 09:53:00.386 [info] > git rev-parse --show-toplevel [6ms]
+2025-09-30 09:53:00.399 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.411 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.598 [info] > git rev-parse --show-toplevel [178ms]
+2025-09-30 09:53:00.619 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.632 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.645 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.663 [info] > git rev-parse --show-toplevel [8ms]
+2025-09-30 09:53:00.676 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.689 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.703 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.716 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.730 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.743 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.755 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.768 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.780 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.791 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-30 09:53:00.804 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.817 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.829 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.841 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.855 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.867 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-30 09:53:00.885 [info] > git rev-parse --show-toplevel [9ms]
+2025-09-30 09:53:00.898 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-30 09:53:00.903 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-09-30 09:53:00.949 [info] > git show --textconv :hypr/hyprland.conf [34ms]
+2025-09-30 09:53:00.949 [info] > git show --textconv HEAD:hypr/hyprland.conf [24ms]
+2025-09-30 09:53:00.949 [info] > git ls-files --stage -- hypr/hyprland.conf [12ms]
+2025-09-30 09:53:00.972 [info] > git hash-object -t tree /dev/null [4ms]
+2025-09-30 09:53:00.973 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rohan/.config/hypr/hyprland.conf.git?%7B%22path%22%3A%22%2Fhome%2Frohan%2F.config%2Fhypr%2Fhyprland.conf%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-09-30 09:53:00.974 [info] > git cat-file -s dd1c1507434180ffc55ae88b78863b3169946f77 [14ms]
+2025-09-30 09:53:00.975 [info] > git ls-tree -l HEAD -- hypr/hyprland.conf [28ms]
+2025-09-30 09:53:00.975 [info] fatal: Not a valid object name HEAD
+2025-09-30 09:53:00.976 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rohan/.config/hypr/hyprland.conf.git?%7B%22path%22%3A%22%2Fhome%2Frohan%2F.config%2Fhypr%2Fhyprland.conf%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-09-30 09:53:02.335 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:02.336 [info] > git config --get commit.template [10ms]
+2025-09-30 09:53:02.338 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:02.338 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:02.358 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:02.386 [info] > git status -z -uall [39ms]
+2025-09-30 09:53:06.611 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [4ms]
+2025-09-30 09:53:06.611 [info] fatal: bad revision 'refs/heads/main'
+2025-09-30 09:53:06.612 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-09-30 09:53:07.423 [info] > git check-ignore -v -z --stdin [14ms]
+2025-09-30 09:53:07.425 [info] > git config --get commit.template [3ms]
+2025-09-30 09:53:07.425 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:07.438 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:07.438 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:07.460 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-09-30 09:53:07.490 [info] > git status -z -uall [43ms]
+2025-09-30 09:53:10.312 [info] > git check-ignore -v -z --stdin [4ms]
+2025-09-30 09:53:12.530 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:12.531 [info] > git config --get commit.template [12ms]
+2025-09-30 09:53:12.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:12.534 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:12.559 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:12.589 [info] > git status -z -uall [44ms]
+2025-09-30 09:53:12.885 [info] > git check-ignore -v -z --stdin [7ms]
+2025-09-30 09:53:14.114 [info] > git check-ignore -v -z --stdin [5ms]
+2025-09-30 09:53:15.178 [info] > git check-ignore -v -z --stdin [5ms]
+2025-09-30 09:53:17.620 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:17.632 [info] > git config --get commit.template [12ms]
+2025-09-30 09:53:17.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-30 09:53:17.634 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:17.659 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-30 09:53:17.687 [info] > git status -z -uall [43ms]
+2025-09-30 09:53:23.079 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:23.081 [info] > git config --get commit.template [12ms]
+2025-09-30 09:53:23.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:23.082 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:23.109 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:23.136 [info] > git status -z -uall [41ms]
+2025-09-30 09:53:24.150 [info] > git add -A -- hypr/hyprlock.conf [7ms]
+2025-09-30 09:53:24.173 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:24.174 [info] > git config --get commit.template [12ms]
+2025-09-30 09:53:24.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-30 09:53:24.176 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:24.199 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-30 09:53:24.227 [info] > git status -z -uall [40ms]
+2025-09-30 09:53:24.297 [info] > git -c user.useConfigOnly=true commit --quiet [40ms]
+2025-09-30 09:53:24.297 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-09-30 09:53:24.312 [info] > git config --get-all user.name [3ms]
+2025-09-30 09:53:24.337 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:24.514 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [177ms]
+2025-09-30 09:53:24.514 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:24.515 [info] > git config --get commit.template [189ms]
+2025-09-30 09:53:24.541 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:24.562 [info] > git status -z -uall [35ms]
+2025-09-30 09:53:25.133 [info] > git check-ignore -v -z --stdin [4ms]
+2025-09-30 09:53:28.297 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:28.300 [info] > git config --get commit.template [15ms]
+2025-09-30 09:53:28.300 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-30 09:53:28.301 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:28.325 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:28.347 [info] > git status -z -uall [35ms]
+2025-09-30 09:53:28.432 [info] > git ls-files --stage -- hypr/hyprland.conf [4ms]
+2025-09-30 09:53:28.448 [info] > git cat-file -s dd1c1507434180ffc55ae88b78863b3169946f77 [5ms]
+2025-09-30 09:53:28.635 [info] > git show --textconv :hypr/hyprland.conf [6ms]
+2025-09-30 09:53:33.389 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:33.391 [info] > git config --get commit.template [15ms]
+2025-09-30 09:53:33.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:33.393 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:33.419 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:33.442 [info] > git status -z -uall [37ms]
+2025-09-30 09:53:38.489 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:38.490 [info] > git config --get commit.template [18ms]
+2025-09-30 09:53:38.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:38.492 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:38.521 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-30 09:53:38.546 [info] > git status -z -uall [40ms]
+2025-09-30 09:53:43.591 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:43.593 [info] > git config --get commit.template [14ms]
+2025-09-30 09:53:43.594 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:43.595 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:43.622 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-30 09:53:43.641 [info] > git status -z -uall [34ms]
+2025-09-30 09:53:48.678 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:48.680 [info] > git config --get commit.template [13ms]
+2025-09-30 09:53:48.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:48.681 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:48.707 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:48.728 [info] > git status -z -uall [35ms]
+2025-09-30 09:53:53.765 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:53.766 [info] > git config --get commit.template [13ms]
+2025-09-30 09:53:53.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:53.768 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:53.790 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:53.820 [info] > git status -z -uall [43ms]
+2025-09-30 09:53:54.704 [info] > git check-ignore -v -z --stdin [5ms]
+2025-09-30 09:53:55.703 [info] > git ls-files --stage -- hypr/hyprland.conf [3ms]
+2025-09-30 09:53:55.715 [info] > git cat-file -s dd1c1507434180ffc55ae88b78863b3169946f77 [3ms]
+2025-09-30 09:53:55.732 [info] > git show --textconv :hypr/hyprland.conf [5ms]
+2025-09-30 09:53:58.860 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:53:58.861 [info] > git config --get commit.template [14ms]
+2025-09-30 09:53:58.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:53:58.863 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:53:58.891 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:53:58.921 [info] > git status -z -uall [45ms]
+2025-09-30 09:54:03.964 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:03.966 [info] > git config --get commit.template [14ms]
+2025-09-30 09:54:03.967 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-30 09:54:03.967 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:03.992 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:54:04.021 [info] > git status -z -uall [44ms]
+2025-09-30 09:54:07.029 [info] > git ls-files --stage -- hypr/hyprland.conf [4ms]
+2025-09-30 09:54:07.041 [info] > git cat-file -s dd1c1507434180ffc55ae88b78863b3169946f77 [3ms]
+2025-09-30 09:54:07.057 [info] > git show --textconv :hypr/hyprland.conf [4ms]
+2025-09-30 09:54:09.054 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:09.055 [info] > git config --get commit.template [11ms]
+2025-09-30 09:54:09.057 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:54:09.057 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:09.079 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:54:09.107 [info] > git status -z -uall [41ms]
+2025-09-30 09:54:14.146 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:14.148 [info] > git config --get commit.template [14ms]
+2025-09-30 09:54:14.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-30 09:54:14.149 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:14.177 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:54:14.204 [info] > git status -z -uall [42ms]
+2025-09-30 09:54:19.245 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:19.247 [info] > git config --get commit.template [15ms]
+2025-09-30 09:54:19.260 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-09-30 09:54:19.260 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:19.287 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-30 09:54:19.314 [info] > git status -z -uall [43ms]
+2025-09-30 09:54:24.349 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:24.351 [info] > git config --get commit.template [14ms]
+2025-09-30 09:54:24.353 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:54:24.353 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:24.380 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-30 09:54:24.409 [info] > git status -z -uall [45ms]
+2025-09-30 09:54:29.438 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:29.450 [info] > git config --get commit.template [13ms]
+2025-09-30 09:54:29.453 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-30 09:54:29.453 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:29.477 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:54:29.508 [info] > git status -z -uall [45ms]
+2025-09-30 09:54:31.514 [info] > git ls-files --stage -- hypr/hyprland.conf [4ms]
+2025-09-30 09:54:31.527 [info] > git cat-file -s dd1c1507434180ffc55ae88b78863b3169946f77 [3ms]
+2025-09-30 09:54:31.543 [info] > git show --textconv :hypr/hyprland.conf [4ms]
+2025-09-30 09:54:34.544 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-30 09:54:34.545 [info] > git config --get commit.template [12ms]
+2025-09-30 09:54:34.547 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-09-30 09:54:34.548 [warning] [Git][getBranch] No such branch: main
+2025-09-30 09:54:34.574 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-30 09:54:34.605 [info] > git status -z -uall [45ms]
+2025-09-30 09:54:36.855 [info] > git show --textconv :.git/COMMIT_EDITMSG [13ms]
+2025-09-30 09:54:36.856 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rohan/.config/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Frohan%2F.config%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-09-30 09:54:36.857 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [4ms]
+2025-09-30 09:54:36.858 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rohan/.config/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Frohan%2F.config%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-09-30 09:54:37.223 [info] > git check-ignore -v -z --stdin [4ms]

@@ -1,0 +1,11 @@
+[Default Applications]
+image/jpeg=firefox.desktop
+application/x-theme=code.desktop
+application/pdf=firefox.desktop
+application/zip=org.gnome.Nautilus.desktop
+
+[Added Associations]
+image/jpeg=firefox.desktop;
+application/x-theme=code.desktop;
+application/pdf=firefox.desktop;
+application/zip=org.gnome.Nautilus.desktop;
